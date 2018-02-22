@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27130.2027
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TodoApi", "TodoApi\TodoApi.csproj", "{1AA81776-86B3-44AE-8831-718222B23F85}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TodoApi", "TodoApi\TodoApi.csproj", "{1AA81776-86B3-44AE-8831-718222B23F85}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OdeToFood", "OdeToFood\OdeToFood.csproj", "{65481CBF-7260-468A-B410-67B0084098D1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{1AA81776-86B3-44AE-8831-718222B23F85}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1AA81776-86B3-44AE-8831-718222B23F85}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1AA81776-86B3-44AE-8831-718222B23F85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65481CBF-7260-468A-B410-67B0084098D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65481CBF-7260-468A-B410-67B0084098D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65481CBF-7260-468A-B410-67B0084098D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65481CBF-7260-468A-B410-67B0084098D1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
