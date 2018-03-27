@@ -11,8 +11,7 @@
     "IIS Express": {
       "commandName": "IISExpress",
       "environmentVariables": {
-        "CityInfoDbConnection": "Server=(localdb)\\\\MSSQLLocalDB;Database=CityInfoDb;Trusted_Connection=True",
-        "ASPNETCORE_ENVIRONMENT": "Production"
+        "ASPNETCORE_ENVIRONMENT": "Production",
       }
     },
     "CityInfo.API": {
